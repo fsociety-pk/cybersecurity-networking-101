@@ -1,10 +1,4 @@
 ```
-   _____ _____________  _____ _____________ ________  
-  / ___// ____/ ____/ /:  ____/__  ______/ /_  __/ /
- \___ \/ __/ / /   / / / __/   / /       _/ / / /_/
-/___/ / /___/ /___/ /_/ /___  / /      /__/ / / / _ \
-/_____/_____/\____/____/_____/ /_/        /_(_)_/ /_/ 
-                                                       
     CYBERSECURITY NETWORKING 101
     Networking Fundamentals for Ethical Hackers
     F-Society PK Learning Organization
